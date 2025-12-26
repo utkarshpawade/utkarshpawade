@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning Engineer | Full-Stack Developer<br>🌱 Pre-Final Year CSE Undergrad at IIIT Sonepat<br>👨‍💻 Learning about DevOps, Backend Optimization and Agentic AI Workflows<br>⚡  Solved 400+ DSA Problems across various platforms<br>Resume Link - https://drive.google.com/file/d/14zrmWCMIYO49k4hdvGsSOO421alV-2Fl/view?usp=sharing
+Machine Learning Engineer | Full-Stack Developer<br>🌱 Pre-Final Year CSE Undergrad at IIIT Sonepat<br>👨‍💻 Learning about DevOps, Backend Optimization and Agentic AI Workflows<br>⚡  Solved 400+ DSA Problems across various platforms<br>
 
 
 ## 🌐 Socials:
