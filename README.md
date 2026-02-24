@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning Engineer | Full-Stack Developer<br>🌱 Pre-Final Year CSE Undergrad at IIIT Sonepat<br>👨‍💻 Learning about DevOps, Backend Optimization and Agentic AI Workflows<br>⚡  Solved 400+ DSA Problems across various platforms<br>
+Data Science | Machine Learning Engineer | Full-Stack Developer<br>🌱 Pre-Final Year CSE Undergrad at IIIT Sonepat<br>👨‍💻 Learning about DevOps, Backend Optimization and Agentic AI Workflows<br>⚡  Solved 400+ DSA Problems across various platforms<br>
 Personal Website - https://portfolio-eight-jet-16.vercel.app/
 
 ## 🌐 Socials:
