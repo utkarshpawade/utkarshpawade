@@ -1,7 +1,6 @@
 # 💫 About Me:
 Data Science<br>
 🌱 Pre-Final Year CSE Undergrad at IIIT Sonepat<br>
-👨‍💻 Learning about DevOps, Backend Optimization and Agentic AI Workflows<br>
 📊 Experienced in R, Statistics, Probability, Bayesian Statistics, and Statistical Modeling<br>
 ⚡ Solved 400+ DSA Problems across various platforms<br>
 Personal Website - https://portfolio-eight-jet-16.vercel.app/
