@@ -1,7 +1,7 @@
 # 💫 About Me:
 Data Science<br>
 🌱 Pre-Final Year CSE Undergrad at IIIT Sonepat<br>
-📊 Experienced in R, Statistics, Probability<br>
+📊 Proficient in R programming and actively exploring statistics, probability, and statistical modeling.<br>
 ⚡ Solved 400+ DSA Problems across various platforms<br>
 Personal Website - https://portfolio-eight-jet-16.vercel.app/
 
