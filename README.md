@@ -10,7 +10,6 @@
 <!-- Profile Views + Followers + Stars -->
 <img src="https://komarev.com/ghpvc/?username=utkarshpawade&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 <img src="https://img.shields.io/github/followers/utkarshpawade?label=Followers&style=social" alt="followers" />
-<img src="https://img.shields.io/github/stars/utkarshpawade?label=Stars&style=social" alt="stars" />
 
 </div>
 
