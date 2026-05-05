@@ -21,7 +21,7 @@
 ```yaml
 name: Utkarsh Pawade
 role: Full-Stack Developer | Aspiring Backend & Distributed Systems Engineer
-education: B.Tech CSE, 3rd Year @ VBTech
+education: B.Tech CSE, 3rd Year @ IIIT Sonepat
 focus:
   - Backend Engineering
   - Distributed Systems & Large-Scale System Design
@@ -32,7 +32,7 @@ currently_learning:
   - Container Orchestration (Kubernetes deep-dive)
   - Event-Driven Architectures (Kafka, Redis Streams)
   - Agentic AI Workflows
-problem_solving: 400+ DSA problems across LeetCode / CodeChef / Codeforces
+problem_solving: 500+ DSA problems across LeetCode / CodeChef / Codeforces
 portfolio: https://portfolio-eight-jet-16.vercel.app/
 ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 ```
@@ -131,9 +131,6 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -151,10 +148,7 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
   <a href="https://www.codechef.com/users/utkarshpawade">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/utkarshpawade">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/utkarshpawade">
+  <a href="https://www.geeksforgeeks.org/profile/utkarshpawade">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
@@ -198,41 +192,12 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 
 ---
 
-## 🤝 Open Source Contributions
-
-> Building, breaking, reviewing — in the open. Every PR is a chance to learn from someone else's codebase, and every code review is a chance to leave it cleaner than I found it.
-
-<div align="center">
-
-<!-- Visual breakdown: commits / PRs / issues / contributed-to as a stacked bar -->
-<a href="https://github.com/utkarshpawade">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarshpawade&theme=tokyonight" alt="Profile details — commits, PRs, issues, contributions" width="95%" />
-</a>
-
-<br/><br/>
-
-<!-- Productive-time + repos-per-language side by side -->
-<a href="https://github.com/utkarshpawade">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utkarshpawade&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="200em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkarshpawade&theme=tokyonight" alt="Most commit language" height="200em" />
-</a>
-
-<br/><br/>
-
 <!-- 3D contribution skyline (requires github-profile-3d-contrib Action — see note below) -->
 <a href="https://github.com/utkarshpawade">
   <img src="https://raw.githubusercontent.com/utkarshpawade/utkarshpawade/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" onerror="this.style.display='none'" />
 </a>
 
 </div>
-
-### 🛠 How I Show Up in Open Source
-
-- 🔁 **Pull Requests** — small, focused, well-described. Each PR ships with a clear *why*, screenshots/logs where relevant, and a test plan.
-- 🐛 **Issues** — reproducible repros over vague bug reports. I file with stack traces, expected vs actual, and minimal reproduction steps.
-- 👀 **Code Reviews** — I review for *correctness → clarity → consistency*, in that order. I leave nits as nits, and load-bearing concerns as blocking.
-- 🧪 **Commits** — atomic, conventional-commit style (`feat:`, `fix:`, `refactor:`, `docs:`). Every commit should pass CI on its own.
-- 📚 **Docs** — if I touched the behavior, I touched the README. Future-me thanks past-me.
 
 ---
 
@@ -253,20 +218,6 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 - **System Design** — every project starts with a one-pager: requirements → bottlenecks → capacity estimates → component diagram → trade-offs.
 - **DevOps Mindset** — containerize early, monitor everything, automate the boring parts.
 - **Cloud-Native** — AWS / GCP / Azure primitives, IaC, and serverless patterns.
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-<div align="center">
-
-### ⭐ "First, solve the problem. Then, write the code." — John Johnson
 
 <sub>Thanks for stopping by — let's build something that scales. 🚀</sub>
 
