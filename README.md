@@ -163,32 +163,32 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Top Row: Stats + Streak (Stats now surfaces merged-PR ratio + reviews) -->
-<a href="https://github.com/utkarshpawade">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=utkarshpawade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage,reviews" />
-  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpawade&theme=tokyonight&hide_border=false" />
-</a>
-
-<br/>
-
-<!-- Top Languages + Productive Time -->
-<a href="https://github.com/utkarshpawade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpawade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshpawade&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h2>📊 GitHub Analytics</h2>
+      <div align="center">
+        <!-- Top Row: Stats + Streak (Stats now surfaces merged-PR ratio + reviews) -->
+        <a href="https://github.com/utkarshpawade">
+          <img src="https://github-readme-stats.vercel.app/api?username=utkarshpawade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage,reviews" />
+          <br/><br/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpawade&theme=tokyonight&hide_border=false" />
+        </a>
+        <br/><br/>
+        <!-- Top Languages + Productive Time -->
+        <a href="https://github.com/utkarshpawade">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpawade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h2>📈 Contribution Graph</h2>
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshpawade&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
