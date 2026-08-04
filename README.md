@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/utkarshpawade">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Utkarsh+Pawade+%F0%9F%91%8B;Backend+Engineer+%7C+Full-Stack+Developer;Distributed+Systems+%7C+DevOps+Enthusiast;3rd+Year+CSE+Undergrad+%40+VBTech;Designing+Systems+That+Scale+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Utkarsh+Pawade+%F0%9F%91%8B;Backend+Engineer+%7C+Full-Stack+Developer;Distributed+Systems+%7C+DevOps+Enthusiast;Final+Year+CSE+Undergrad+%40+VBTech;Designing+Systems+That+Scale+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 ```yaml
 name: Utkarsh Pawade
 role: Full-Stack Developer | Aspiring Backend & Distributed Systems Engineer
-education: B.Tech CSE, 3rd Year @ IIIT Sonepat
+education: B.Tech CSE, Final Year @ IIIT Sonepat
 focus:
   - Backend Engineering
   - Distributed Systems & Large-Scale System Design
