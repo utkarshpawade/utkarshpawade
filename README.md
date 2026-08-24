@@ -153,9 +153,9 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 ---
 
 <!-- 3D contribution skyline (requires github-profile-3d-contrib Action — see note below) -->
-<a href="https://github.com/utkarshpawade">
+<!-- <a href="https://github.com/utkarshpawade">
   <img src="https://raw.githubusercontent.com/utkarshpawade/utkarshpawade/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" onerror="this.style.display='none'" />
-</a>
+</a> -->
 
 </div>
 
