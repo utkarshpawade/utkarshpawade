@@ -123,7 +123,7 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 
 ---
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h2>📊 GitHub Analytics</h2>
@@ -148,7 +148,7 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
       </div>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
