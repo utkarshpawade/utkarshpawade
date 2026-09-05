@@ -120,51 +120,6 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 | <a href="https://leetcode.com/u/utkarshpawade/"><img src="https://leetcard.jacoblin.cool/utkarshpawade?theme=dark&font=Fira%20Code&ext=heatmap" width="400" /></a> | <a href="https://www.codechef.com/users/utkarshpawade"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" width="200"></a> | <a href="https://codeforces.com/profile/utkarsh134">[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=utkarsh134&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/utkarsh134)</a> |
 
 
-<!-- <table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h2>📊 GitHub Analytics</h2>
-      <div align="center">
-        <!-- Top Row: Stats + Streak (Stats now surfaces merged-PR ratio + reviews) -->
-        <a href="https://github.com/utkarshpawade">
-          <img src="https://github-readme-stats.vercel.app/api?username=utkarshpawade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage,reviews" />
-          <br/><br/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpawade&theme=tokyonight&hide_border=false" />
-        </a>
-        <br/><br/>
-        <!-- Top Languages + Productive Time -->
-        <a href="https://github.com/utkarshpawade">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpawade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
-        </a>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h2>📈 Contribution Graph</h2>
-      <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshpawade&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-      </div>
-    </td>
-  
-
-
-
-<!-- 3D contribution skyline (requires github-profile-3d-contrib Action — see note below) -->
-<!-- <a href="https://github.com/utkarshpawade">
-  <img src="https://raw.githubusercontent.com/utkarshpawade/utkarshpawade/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" onerror="this.style.display='none'" />
-</a> -->
-
-<!-- </div>
-
---- -->
-
-
-
-<!-- <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=utkarshpawade&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophies" />
-  </a>
-</div> -->
-
 
 ## 🧠 What I'm Building Toward
 
