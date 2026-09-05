@@ -119,9 +119,6 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 | :---: | :---: | :---: |
 | <a href="https://leetcode.com/u/utkarshpawade/"><img src="https://leetcard.jacoblin.cool/utkarshpawade?theme=dark&font=Fira%20Code&ext=heatmap" width="400" /></a> | <a href="https://www.codechef.com/users/utkarshpawade"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" width="200"></a> | <a href="https://codeforces.com/profile/utkarsh134">[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=utkarsh134&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/utkarsh134)</a> |
 
-</div>
-
----
 
 <!-- <table width="100%">
   <tr>
@@ -147,19 +144,18 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshpawade&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
       </div>
     </td>
-  </tr>
-</table> -->
+  
 
----
+
 
 <!-- 3D contribution skyline (requires github-profile-3d-contrib Action — see note below) -->
 <!-- <a href="https://github.com/utkarshpawade">
   <img src="https://raw.githubusercontent.com/utkarshpawade/utkarshpawade/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" onerror="this.style.display='none'" />
 </a> -->
 
-</div>
+<!-- </div>
 
----
+--- -->
 
 
 
@@ -169,7 +165,6 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
   </a>
 </div> -->
 
----
 
 ## 🧠 What I'm Building Toward
 
