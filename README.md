@@ -68,6 +68,7 @@ ask_me_about: ["System Design", "Scalable Backends", "DevOps", "MERN", "Cloud"]
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=green)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![REST](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
